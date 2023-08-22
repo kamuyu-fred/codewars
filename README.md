@@ -1,1 +1,2 @@
-# codewars
+# My Code Wars Solutions Repo
+
